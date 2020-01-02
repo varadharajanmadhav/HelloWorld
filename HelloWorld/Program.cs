@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(GetMessage());
+            Console.WriteLine(GetMessage() + " Varadha");
         }
 
         public static string GetMessage()
